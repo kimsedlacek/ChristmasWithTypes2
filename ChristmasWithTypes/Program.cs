@@ -8,7 +8,7 @@ namespace ChristmasWithTypes
         {
             var xmas = new Christmas();
 
-            var xmasDay = "Thursday";
+            var xmasDay = Christmas.Day.Thursday;
 
             //TODO set Santa's name to Kris Kringle
             xmas.Santa = "Kris Kringle";
